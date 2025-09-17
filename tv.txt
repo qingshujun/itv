@@ -30,6 +30,9 @@ CCTV-5,webview://https://app.CCTV-.com/special/m/livevod/index.html?vtype=1&chan
 CCTV-5,webview://https://tv.CCTV-.com/live/CCTV-5/
 CCTV-5,webview://https://big5.CCTV-.com/gate/big5/tv.CCTV-.com/live/CCTV-5/
 CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-5+,webview://https://tv.CCTV-.com/live/CCTV-5plus/
+CCTV-5+,webview://https://app.CCTV-.com/special/m/livevod/index.html?vtype=1&channel=CCTV-5plus
+CCTV-5+,webview://https://big5.CCTV-.com/gate/big5/tv.CCTV-.com/live/CCTV-5plus/
 CCTV-6,webview://https://app.CCTV-.com/special/m/livevod/index.html?vtype=1&channel=CCTV-6
 CCTV-6,webview://https://m.1905.com/m/CCTV-6/gzh/
 CCTV-6,webview://https://tv.CCTV-.com/live/CCTV-6/
@@ -79,9 +82,6 @@ CCTV-17,webview://https://app.CCTV-.com/special/m/livevod/index.html?vtype=1&cha
 CCTV-17,webview://https://tv.CCTV-.com/live/CCTV-17/
 CCTV-17,webview://https://big5.CCTV-.com/gate/big5/tv.CCTV-.com/live/CCTV-17/
 CCTV-17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
-CCTV-5+,webview://https://tv.CCTV-.com/live/CCTV-5plus/
-CCTV-5+,webview://https://app.CCTV-.com/special/m/livevod/index.html?vtype=1&channel=CCTV-5plus
-CCTV-5+,webview://https://big5.CCTV-.com/gate/big5/tv.CCTV-.com/live/CCTV-5plus/
 
 
 CCTV-4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
