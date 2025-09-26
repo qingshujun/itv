@@ -35,6 +35,8 @@ CCTV-5,webview://https://app.CCTV-.com/special/m/livevod/index.html?vtype=1&chan
 CCTV-5,webview://https://tv.CCTV-.com/live/CCTV-5/
 CCTV-5,webview://https://big5.CCTV-.com/gate/big5/tv.CCTV-.com/live/CCTV-5/
 CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-5+,http://61.140.126.120:10000/udp/239.77.0.87:5146
+CCTV-5+,http://61.140.124.160:10000/udp/239.77.0.87:5146
 CCTV-5+,webview://https://tv.CCTV-.com/live/CCTV-5plus/
 CCTV-5+,webview://https://app.CCTV-.com/special/m/livevod/index.html?vtype=1&channel=CCTV-5plus
 CCTV-5+,webview://https://big5.CCTV-.com/gate/big5/tv.CCTV-.com/live/CCTV-5plus/
@@ -200,8 +202,6 @@ CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
-CCTV-5+,http://61.140.126.120:10000/udp/239.77.0.87:5146
-CCTV-5+,http://61.140.124.160:10000/udp/239.77.0.87:5146
 CCTV-5+,http://113.66.41.109:10000/udp/239.77.0.87:5146
 CCTV-5+,http://113.66.41.109:10000/udp/239.77.1.147:5146
 CCTV-5+,http://113.66.41.109:10000/udp/239.77.1.31:5146
