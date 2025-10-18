@@ -2441,7 +2441,6 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,https://live.iill.top/douyin/685317364746
 JJ斗地主,http://pull-q3.douyincdn.com/thirdgame/stream-694623112615691070.m3u8?arch_hrchy=s2&auth_key=1761369591-0-0-b837a6bbf58a530ac55497cd1134a3ed&major_anchor_level=vip&s_anchor=1&t_id=037-20251018134951442B027936CD3C925199-Q2WAcP
-JJ斗地主,http://pull-hls-q11.douyincdn.com/thirdgame/stream-694623112615691070_expld.m3u8?arch_hrchy=s2&expire=1761371391&major_anchor_level=vip&s_anchor=1&sign=b0d7580de394ba8d697d977c1945dfd2&t_id=037-20251018134951442B027936CD3C925199-OL9mYS
 JJ斗地主,http://pull-hls-q11.douyincdn.com/thirdgame/stream-694623112615691070_expsd.m3u8?arch_hrchy=s2&expire=1761371391&major_anchor_level=vip&s_anchor=1&sign=5e3cd6c393b970ddec4c9e028c74f5a8&t_id=037-20251018134951442B027936CD3C925199-OL9mYS
 JJ斗地主,https://live.iill.top/bilibili/22021983
 JJ斗地主,https://live.iill.top/huya/152698
