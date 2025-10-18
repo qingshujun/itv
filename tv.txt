@@ -2440,7 +2440,7 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,https://live.iill.top/douyin/685317364746
-JJ斗地主,https://live.iill.top/douyu/488743
+JJ斗地主,https://pull-flv-q13.douyincdn.com/thirdgame/stream-694623112615691070_expld.flv?arch_hrchy=s2&expire=1761371071&major_anchor_level=vip&s_anchor=1&sign=07074a2b8b2e937beabe33343a5d7d68&t_id=037-202510181344311582FE2CCC78E0C9DAC2-lblCSl&unique_id=stream-694623112615691070_830_flv_expld
 JJ斗地主,https://live.iill.top/bilibili/22021983
 JJ斗地主,https://live.iill.top/huya/152698
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
