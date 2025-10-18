@@ -2438,12 +2438,12 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 🏀体育频道,#genre#
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-JJ斗地主,https://live.iill.top/douyin/685317364746
 JJ斗地主,http://pull-q3.douyincdn.com/thirdgame/stream-694623112615691070.m3u8?arch_hrchy=s2&auth_key=1761369591-0-0-b837a6bbf58a530ac55497cd1134a3ed&major_anchor_level=vip&s_anchor=1&t_id=037-20251018134951442B027936CD3C925199-Q2WAcP
 JJ斗地主,http://pull-hls-q11.douyincdn.com/thirdgame/stream-694623112615691070_expsd.m3u8?arch_hrchy=s2&expire=1761371391&major_anchor_level=vip&s_anchor=1&sign=5e3cd6c393b970ddec4c9e028c74f5a8&t_id=037-20251018134951442B027936CD3C925199-OL9mYS
-JJ斗地主,https://live.iill.top/bilibili/22021983
 JJ斗地主,https://live.iill.top/huya/152698
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,https://live.iill.top/douyin/685317364746
+JJ斗地主,https://live.iill.top/bilibili/22021983
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
