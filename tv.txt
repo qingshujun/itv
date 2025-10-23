@@ -2440,6 +2440,8 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://pull-q3.douyincdn.com/thirdgame/stream-694623112615691070.m3u8?arch_hrchy=s2&auth_key=1761369591-0-0-b837a6bbf58a530ac55497cd1134a3ed&major_anchor_level=vip&s_anchor=1&t_id=037-20251018134951442B027936CD3C925199-Q2WAcP
 JJ斗地主,http://pull-hls-q11.douyincdn.com/thirdgame/stream-694623112615691070_expsd.m3u8?arch_hrchy=s2&expire=1761371391&major_anchor_level=vip&s_anchor=1&sign=5e3cd6c393b970ddec4c9e028c74f5a8&t_id=037-20251018134951442B027936CD3C925199-OL9mYS
+JJ斗地主,https://pull-flv-f26.douyinliving.com/thirdgame/stream-406423374012089153_expsd5.flv?arch_hrchy=s2&expire=69037070&major_anchor_level=vip&s_anchor=1&sign=0b5b28bda64c1f172375c875d528e59c&t_id=037-2025102322043198ABC688F33AFE2B8263-RZ1Slh&unique_id=stream-406423374012089153_833_flv_expsd5
+JJ斗地主,https://pull-flv-f26.douyinliving.com/thirdgame/stream-406423374012089153_or4.flv?arch_hrchy=s2&expire=69037070&major_anchor_level=vip&s_anchor=1&sign=0baa2c98f14f831ab929cfe54f0c22a6&t_id=037-2025102322043198ABC688F33AFE2B8263-x9lEaq&unique_id=stream-406423374012089153_833_flv_or4&_session_id=362-202510232204323140982467901059F4F7.1761228272314.17505&rsi=0&abr_pts=-800
 JJ斗地主,https://live.iill.top/huya/152698
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,https://live.iill.top/douyin/685317364746
